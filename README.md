@@ -35,4 +35,8 @@ Web Developer, Content Creator, Account Manager
     </a>
   </p>
 </details>
-<details>
+<img alt="github contribution snake animation" src="https://github.com/amaraoussama94/amaraoussama94/blob/output/github-contribution-grid-snake.svg"
+ <h4 align="center"> 
+ <img alt="By By  " src="https://media.tenor.com/DbEsQUAJLrUAAAAi/bye-bear.gif"width="100">Thanks for Visiting!<img alt="By " src="https://media.tenor.com/wJ1f-nu2nggAAAAi/wave-bye.gif" width= "100">
+ </h4>
+ 
