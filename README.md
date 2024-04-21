@@ -10,3 +10,20 @@
  <p align="center"><img src="https://media.tenor.com/wspoUO-g8-wAAAAi/plugdj-vibing.gif" width="90px"> 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Web+Developer&center=true&width=500&height=50"></a><img src="https://cdn3.emoji.gg/emojis/4363-mochibowtie.gif" width="90px"> 
 </p>
+<h3 align="left"> About Me</h3>  
+Web Developer, Content Creator, Account Manager 
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
+<h3 align="left">Technical Skills:</h3> 
+1. Programing Language:HTML, Css, PHP, JavaScript, JAVA,
+2. Programing FrameWork, Tools : SQL, Bootstrap, React, WordPress
+3. Digital Marketing: Buffer, Canva, PhotoShop, Illustrator 
+3. Other :Linux, Windows, Git, Docker
+
+<summary>Top languages</summary>
+  <p align="center">
+<a href="https://github.com/abir-riahi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amaraoussama94&layout=compact&langs_count=8&theme=great-gatsby"/>
+    </a>
+    </p>
+    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</details>
