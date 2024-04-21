@@ -14,9 +14,9 @@
 Web Developer, Content Creator, Account Manager 
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 <h3 align="left">Technical Skills:</h3> 
-1. Programing Language:HTML, Css, PHP, JavaScript, JAVA,
-2. Programing FrameWork, Tools : SQL, Bootstrap, React, WordPress
-3. Digital Marketing: Buffer, Canva, PhotoShop, Illustrator 
+1. Programing Language:HTML, Css, PHP, JavaScript, JAVA,<br>
+2. Programing FrameWork, Tools : SQL, Bootstrap, React, WordPress<br>
+3. Digital Marketing: Buffer, Canva, PhotoShop, Illustrator <br>
 3. Other :Linux, Windows, Git, Docker
 
 <summary>Top languages</summary>
@@ -27,3 +27,12 @@ Web Developer, Content Creator, Account Manager
     </p>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
+<details>
+<summary>Streak stats</summary>
+<p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://streak-stats.demolab.com?user=abir-riahi&theme=highcontrast&hide_border=true" alt="streak stats"/>
+    </a>
+  </p>
+</details>
+<details>
